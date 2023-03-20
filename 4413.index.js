@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4413],{4413:(e,t,l)=>{l.r(t),l.d(t,{default:()=>u});var n=l(51855),a=l(44601),c=l(43691);const u=()=>n.createElement("div",{className:"contentOuter"},n.createElement(c.Z,null),n.createElement("div",{className:"paddedContent"},n.createElement("h1",null,"תנאי שימוש באתר queueint"),n.createElement(a.Z,null)))}}]);
